@@ -45,7 +45,7 @@ const Sidebar = ({ address, likes, likersAddresses, id }) => {
                 loading: 'Liking Video This can take a moment... ⏳',
                 success: 'Video Liked! ',
                 error: 'Something went wrong!',
-              })x
+              })
             }
           />
         )}
